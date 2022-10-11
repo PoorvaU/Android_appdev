@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">c</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mycolor11">#ffde40</color>
+    <!--    Shades of purple and background-->
+    <color name="Mulberry">#770737</color>
+    <color name="DarkViolet"> #581845 </color>
+    <color name="TyrianPurple">#630330</color>
+    <color name="Crimson">#C70039 </color>
+    <color name="Orange">#FF5733</color>
+    <color name="Mustard">#FFC300 </color>
+    <color name="Color10">#DAF7A6</color>
+
+</resources>
